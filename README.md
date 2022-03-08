@@ -8,7 +8,8 @@ This workshop is designed to get you started, demonstrate what is possible, and 
 
 Please download R and RStudio Desktop before the workshop.
 
-Recording for this workshop can be found here: https://bit.ly/3Dp2ekm
+Recording for the 2021 workshop can be found here: https://bit.ly/3Dp2ekm
+Recording for the 2022 workshop can be found here: https://bit.ly/3CpoBWN
 
 Bio: 
 Mercedes is a second year PhD student studying how land management practices like grazing livestock influence post-fire soil chemistry and microbiology. She studied her Bachelor's degree at MIT in Boston, USA."I use R to analyse all of my data and to produce all of the figures for my thesis. I'm excited to help you get started and show you what R is capable of."
